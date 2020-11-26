@@ -1,14 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
 
 :root {
-    --primary-color:#A78BFA;
-    --dark-grey:#6B7280;
-    --off-white:#F3F4F6;
+    --primary-color: #A78BFA;
+    --dark-grey: #6B7280;
+    --off-white: #F3F4F6;
 }
 
 body {
     font-family: 'Ubuntu', sans-serif;
-    margin: 0px;;
+    margin: 0px;
+    ;
 }
 
 hr {
@@ -29,7 +30,7 @@ hr {
 .link {
     box-sizing: border-box;
     text-decoration: none;
-    padding:0.5rem 1rem;
+    padding: 0.5rem 1rem;
     margin-top: 5rem;
     margin-bottom: 1rem;
 }
@@ -44,8 +45,7 @@ hr {
 .link-secondary {
     color: var(--primary-color);
     border-radius: 0.5rem;
-    border:1px solid var(--primary-color);
-    
+    border: 1px solid var(--primary-color);
 }
 
 .list-non-bullet {
@@ -54,7 +54,7 @@ hr {
 
 .list-item-inline {
     display: inline;
-    padding:0rem 0.5rem;
+    padding: 0rem 0.5rem;
 }
 
 .navigation {
@@ -81,7 +81,7 @@ hr {
 }
 
 .hero {
-    padding:2rem;
+    padding: 2rem;
 }
 
 .hero .hero-image {
@@ -101,7 +101,7 @@ hr {
 }
 
 .section {
-    padding:2rem;
+    padding: 2rem;
 }
 
 .section h3 {
@@ -121,7 +121,8 @@ hr {
 }
 
 .footer .footer-header {
-    font-weight: bold;;
+    font-weight: bold;
+    ;
     font-size: large;
 }
 
@@ -130,5 +131,5 @@ hr {
 }
 
 .footer ul {
-    padding-inline-start:0px;
+    padding-inline-start: 0px;
 }
