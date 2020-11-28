@@ -16,7 +16,9 @@
 body {
     font-family: 'Ubuntu', sans-serif;
     margin: 0px;
-    ;
+    background-image: url("/images/unsplash-background.jpg");
+ background-color: #cccccc;
+ background-size: cover;
 }
 
 hr {
