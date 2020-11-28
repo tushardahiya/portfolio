@@ -21,6 +21,7 @@ body {
  background-size: cover;
 }
 
+
 hr {
     margin: 2rem 0rem;
 }
@@ -145,6 +146,7 @@ hr {
 
 .section {
     padding: 2rem;
+    border-radius: 2rem;
 }
 
 .section h3 {
