@@ -178,3 +178,7 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+
+.no-bullets {
+    list-style-type: none;
+}
